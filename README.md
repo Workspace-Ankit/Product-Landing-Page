@@ -1,2 +1,23 @@
-# Product-Landing-Page
-Responsive product landing page project built for freeCodeCamp using HTML5 and CSS3. Includes smooth navigation, form, pricing section, and embedded video.
+# Product Landing Page
+
+This is a responsive **Product Landing Page** built as part of the freeCodeCamp Responsive Web Design Certification.
+
+
+## 📁 Live Preview
+
+You can view a live version of this project [here](https://Workspace-Ankit.github.io/product-landing-page)  
+
+
+## ✅ Features
+
+- Responsive layout
+- Fixed header navigation
+- Functional form with email validation
+- Valid links between navbar and sections
+- Embedded video/iframe
+- Use of Flexbox and media queries
+
+
+---
+
+**Built by [Ankit](mailto:workspaceankit001@gmail.com)**
