@@ -17,6 +17,10 @@ You can view a live version of this project [here](https://Workspace-Ankit.githu
 - Embedded video/iframe
 - Use of Flexbox and media queries
 
+## 🚀 Technologies Used
+
+- HTML5
+- CSS3
 
 ---
 
