@@ -5,7 +5,7 @@ This is a responsive **Product Landing Page** built as part of the freeCodeCamp 
 
 ## 📁 Live Preview
 
-You can view a live version of this project [here](https://Workspace-Ankit.github.io/product-landing-page)  
+You can view a live version of this project [here]([https://Workspace-Ankit.github.io/product-landing-page](https://workspace-ankit.github.io/Product-Landing-Page/))  
 
 
 ## ✅ Features
